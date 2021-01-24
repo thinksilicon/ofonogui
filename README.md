@@ -9,6 +9,9 @@ This tools intention is that you can use your computer to make calls with your c
 hands-free profile of Bluetooth you can pair your phone and play audio from your phone. With the
 ofonogui you can make and receive calls. You don't need to touch your phone anymore.
 
+Additional information can be found on the project's homepage (German):
+https://thinksilicon.de/94/Eine-GUI-fuer-ofono.html
+
 # Setup
 Please make sure you have the following Perl packages installed:
  - Gtk3
